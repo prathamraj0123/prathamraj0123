@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Pratham Raj  
 
-<!--
-**prathamraj0123/prathamraj0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Engineer | Fintech Systems | AI-powered Solutions**  
+🎯 Passionate about building **scalable systems** and **AI-driven financial products**.  
 
-Here are some ideas to get you started:
+🔹 2+ years of experience in **Python, Go, and modern backend frameworks**  
+🔹 Skilled in **microservices, APIs, asynchronous systems, and cloud deployments**  
+🔹 Currently working on **AI portfolio insights, semantic search, and multi-asset trading engines**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prathamraj)  
+📧 **prathamraj0123@gmail.com**  
+
+---
+
+## ⚡ Tech Stack  
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+
+**Databases & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+
+**AI & Data**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
+![Pydantic](https://img.shields.io/badge/Pydantic-A02C2C?style=for-the-badge&logo=pydantic&logoColor=white)  
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Profile views](https://komarev.com/ghpvc/?username=prathamraj0123&label=Profile%20views&color=0e75b6&style=flat)  
+
+![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathamraj0123&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamraj0123&layout=compact&theme=radical)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathamraj0123&theme=radical)](https://git.io/streak-stats)  
+
+---
+
+## 🏆 GitHub Achievements  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=prathamraj0123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+
+---
+
+## 🌟 Featured Work  
+- 💰 **Wealth Management Platform** – AI-driven financial advisor with portfolio insights  
+- 📈 **IPO & Multi-Asset Execution Engine** – Streamlined order placement across asset classes  
+- 🤖 **AI Portfolio Analyzer** – Built with Pydantic AI + OpenAI for semantic search on investments  
+
+---
+
+⭐️ From [prathamraj0123](https://github.com/prathamraj0123)  
